@@ -1,2 +1,2 @@
 # rust-concurrent
-A simple Rust concurrent library
+This library includes a few utility types commonly useful in concurrent programming. 
